@@ -1,0 +1,13 @@
+Enterprise Operations - Discount & Pricing Policy
+
+1. Standard Discounts
+- Sales representatives may offer up to a 10% discount on Enterprise Software contracts without prior approval.
+- Discounts between 11% and 20% require approval from the Regional Sales Director.
+- Any discount exceeding 20% requires approval from the VP of Sales.
+
+2. Cloud Infrastructure Pricing
+- Cloud Infrastructure services have a strict maximum discount of 15% due to fixed hardware costs.
+- Volume discounts are applied automatically for compute usage exceeding 100,000 core-hours per month.
+
+3. End-of-Quarter Incentives
+- During the final two weeks of Q4, sales representatives are authorized to increase standard discounts by an additional 5% to close pending deals.
